@@ -1,0 +1,60 @@
+
+.block1 {
+  display: flex;
+  align-items: center;
+  background-color: #000000;
+}
+
+.block1 a {
+  text-decoration: none;
+  color: #B1B5B9;
+}
+
+.block1-1 {
+  display: flex;
+}
+
+.menuLeft {
+  margin-left: 30px;
+}
+
+.menuLeft a {
+  margin-left: 40px;
+}
+
+.menuRight {
+  padding-left: 550px;
+}
+
+.menuRight a {
+  margin-right: 30px;
+  text-decoration: none;
+}
+
+.menuRight input {
+  background-color: #333333;
+  border: none;
+}
+
+.block2 {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #CCCCCC;
+}
+.block2 #tv {
+  background-color: #CA0813;
+  color: #FAEBEA;
+  padding-top: 10px;
+  padding-bottom: 10px;}
+.block2 a {
+  text-decoration: none;
+  color: black;
+}
+
+.block2-1 {
+}
+
+.block2-1 a {
+  margin-right: 30px;
+}
