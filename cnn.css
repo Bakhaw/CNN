@@ -8,13 +8,13 @@
   display: flex;
   align-items: center;
   background-color: #000000;
+  margin: 0 auto;
 }
 
 .block1 a {
   text-decoration: none;
   color: #B1B5B9;
 }
-
 .block1-1 {
   display: flex;
 }
@@ -28,7 +28,7 @@
 }
 
 .menuRight {
-  padding-left: 550px;
+  padding-left: 39.2em;
 }
 
 .menuRight a {
@@ -50,7 +50,7 @@
 .block2 #tv {
   background-color: #CA0813;
   color: #FAEBEA;
-  margin-left: 295px;
+  margin-left: 21em;
   padding-left: 15px;
   padding-right: 15px;
   padding-top: 10px;
